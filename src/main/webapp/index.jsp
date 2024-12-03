@@ -17,7 +17,9 @@
 
 <h1 style="color: Green; font-size: 40px;" align="center">Diffirent version are not creating in Nexus app</h1>
 		
-		
+<h1 style="color: Green; font-size: 40px;" align="center">Shyam have completed Nexus integration</h1>
+
+<h1 style="color: Green; font-size: 40px;" align="center">Diffirent version are not creating in Nexus app</h1>		
 
 
 
